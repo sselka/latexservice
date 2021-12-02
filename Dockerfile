@@ -1,4 +1,4 @@
-FROM ubuntu:19.10
+FROM ubuntu:21.10
 MAINTAINER Sebastian Selka <sselka@symbiolab.de>
 
 ARG DEBIAN_FRONTEND=noninteractive
